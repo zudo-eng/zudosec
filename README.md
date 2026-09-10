@@ -22,8 +22,11 @@ Click the badges below to join our growing communities and grab exclusive tech, 
 
 🎓 What You Can Learn From My Content
 Cybersecurity & Ethical Hacking: Linux Privilege Escalation (eJPT/eCPPT prep), SUID exploits, GTFOBins, and HTB/TryHackMe walkthroughs.
+
 OSINT & Reconnaissance: Practical username enumeration workflows, footprinting, and tool usage (Usufy, Sherlock).
+
 AI & Machine Learning in Security: AI/ML datasets, security automation using LLMs, and prompt engineering for threat intelligence.
+
 📁 Premium Resources & Materials Available Here
 🎓 Premium Courses Summaries & Notes: Deep-dive notes from industry-recognized cybersecurity & OSINT training courses.
 🛠️ Pro Tools & Custom Scripts: Practical tools, automation scripts, and custom configurations.

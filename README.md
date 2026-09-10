@@ -29,9 +29,15 @@ AI & Machine Learning in Security: AI/ML datasets, security automation using LLM
 
 📁 Premium Resources & Materials Available Here
 🎓 Premium Courses Summaries & Notes: Deep-dive notes from industry-recognized cybersecurity & OSINT training courses.
+
 🛠️ Pro Tools & Custom Scripts: Practical tools, automation scripts, and custom configurations.
+
 📚 Security Books & Guides Collection: Curated notes and key takeaways from top cybersecurity, hacking, and OSINT books.
+
 ✍️ CTF & Lab Walkthroughs: Step-by-step writeups for TryHackMe, HackTheBox, and custom vulnerable labs.
+
 🔬 Research Papers & Whitepapers: Summarized cutting-edge research on AI/ML security, threat intelligence, and zero-day vulnerabilities.
+
 📹 Tutorials & Cheat Sheets: Quick-reference cheat sheets and beginner-to-advanced guides for fast learning.
+
 💡 Feel free to star ⭐ the repositories if you find these resources helpful!
